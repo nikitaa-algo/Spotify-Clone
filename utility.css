@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.border{
+    border: 2px solid rgb(54, 192, 109);
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-centre{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+} 
+
+.home ul li{
+    display: flex;
+    gap: 15px;
+    width: 13px;
+    list-style: none;
+}
