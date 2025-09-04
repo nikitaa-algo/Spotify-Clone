@@ -4,13 +4,15 @@
     font-family: 'Roboto', sans-serif;
 
 }
-.border{
-    border: 2px solid rgb(54, 192, 109);
-    margin: 3px;
-}
+
 
 .flex{
     display: flex;
+}
+
+.border{
+    border: 2px solid rgb(54, 192, 109);
+    margin: 3px;
 }
 
 .justify-centre{
@@ -63,4 +65,7 @@
 .heading img{
     width: 20px;
 }
+
+
+
 
