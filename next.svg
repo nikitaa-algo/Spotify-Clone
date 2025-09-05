@@ -1,0 +1,7 @@
+<svg width="30" height="30" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- One white right-pointing triangle -->
+  <polygon points="30,30 65,50 30,70" fill="white" />
+  
+  <!-- Vertical white bar -->
+  <rect x="65" y="30" width="8" height="40" fill="white" />
+</svg>
